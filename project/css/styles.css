@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(255, 255, 255) ;
+}
+.bx{
+    box-shadow: 5px 5px 8px black;
+}
+/* .navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px;
+} */
+
+.main-banner{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.feature-holder{
+    text-align: center;
+    margin-bottom: 25px;
+    border:black;
+}
+section.features {
+    padding-top: 35px;
+    padding-bottom: 35px;
+    background-color: gainsboro;
+}
+.feature-holder p{
+    font-size: 14px;
+
+}
+footer.main-footer {
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(25, 86, 201);
+}
+.follow-link{
+    color: white;
+    list-style-type: none;
+    font-size: 1.2em;
+    text-decoration: none;
+    margin-bottom: 3px;
+}
+.follow-link>a{
+    color: #fbfbfb;
+}
+.footer-widget>h5{
+    margin-left: 30px;
+}
+.imp-links{
+    color: white;
+    list-style-type: none;
+    font-size: 1.2em;
+    margin-bottom: 3px;
+}
+.imp-links>a{
+    color: #fbfbfb;
+}
+.external-links{
+    color: white;
+    list-style-type: none;
+    font-size: 1.2em;
+
+}
+.external-links>a{
+    color: #fbfbfb;
+    margin-bottom: 3px;
+}
+.copy{
+    margin-top: 3px;
+    text-align: right;
+}
+aside.footer-widget>ul>li>a{
+    text-decoration: none;
+}
+.about-document{
+    font-size: 1.3em;
+    font-style: none;
+}
+.list-element{
+    font-size: 1.3em;
+}
+.nav-link{
+    font-size: 1.3em;
+    margin-left: 10px;
+}
+.navbar-brand{
+    font-size: 1.5em;
+}
+.card{
+    margin-bottom: 10px;
+}
